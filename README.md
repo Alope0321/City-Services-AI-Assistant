@@ -6,7 +6,7 @@ This project is an AI-powered city services assistant that helps users in the Sa
 ## Features
 - Streamlit Web Interface
 - Gemini AI integration
-- City Services datset lookup
+- City Services dataset lookup
 
 ## Requirements 
 Install dependencies: 
